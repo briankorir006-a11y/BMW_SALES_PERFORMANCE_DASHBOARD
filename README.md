@@ -1,3 +1,7 @@
+Experience the interractive dashboard here:👇
+## 🔗 View Project
+  👉 [BMW Sales Performance Dashboard](https://github.com/briankorir006-a11y/BMW_SALES_PERFORMANCE_DASHBOARD)
+
 BMW Sales Dashboard — Power BI Project
 Overview
 
