@@ -79,12 +79,8 @@ Excel / CSV Data — source data
 Data Modeling — relationship between Dimension and Fact tables
 
 Dashboard Preview
-Sales Summary Page	Model Analysis Page
-## 📷 Dashboard Preview
+![alt text](https://github.com/briankorir006-a11y/BMW_SALES_PERFORMANCE_DASHBOARD/blob/main/ASSET/IMAGE%201.png?raw=true)
 
-| Sales Summary Page | Model Analysis Page |
-|---------------------|---------------------|
-| ![BMW Summary](ASSET/IMAGE1.PNG) | ![BMW Model Analysis](ASSET/IMAGE2.PNG) |
 
 
 
