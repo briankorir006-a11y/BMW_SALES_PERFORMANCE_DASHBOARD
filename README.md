@@ -1,8 +1,7 @@
 Experience the interractive dashboard here:👇
 ## 📥 Download Dashboard
 
-Click [**here**](https://drive.google.com/uc?export=download&id=1EeNKgyYf9ZqgI-NRwx1qYC8RtEGpXQhb) to download the Power BI dashboard file.
-
+Click [**here**](https://drive.google.com/file/d/1EeNKgyYf9ZqgI-NRwx1qYC8RtEGpXQhb/view?usp=sharing) to open and download the Power BI dashboard file.
 
 
 
