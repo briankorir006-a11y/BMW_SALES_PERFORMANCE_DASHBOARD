@@ -1,3 +1,10 @@
+Experience the interractive dashboard here:👇
+## 📥 Download Dashboard
+You can download the Power BI file here:
+
+➡️ [Download BMW_SALES_PERFORMANCE_DASHBOARD.pbix](https://github.com/briankorir006-a11y/BMW_SALES_PERFORMANCE_DASHBOARD/raw/main/BMW_SALES_PERFORMANCE_DASHBOARD.pbix)
+
+
 BMW Sales Dashboard — Power BI Project
 Overview
 
