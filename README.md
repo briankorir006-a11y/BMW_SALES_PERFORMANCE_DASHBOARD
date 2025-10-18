@@ -80,6 +80,7 @@ Data Modeling — relationship between Dimension and Fact tables
 
 Dashboard Preview
 ![alt text](https://github.com/briankorir006-a11y/BMW_SALES_PERFORMANCE_DASHBOARD/blob/main/ASSET/IMAGE%201.png?raw=true)
+![alt text](https://github.com/briankorir006-a11y/BMW_SALES_PERFORMANCE_DASHBOARD/blob/main/ASSET/IMAGE%202.png?raw=true)
 
 
 
