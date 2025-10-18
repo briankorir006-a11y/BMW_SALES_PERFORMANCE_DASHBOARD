@@ -84,7 +84,7 @@ Sales Summary Page	Model Analysis Page
 
 | Sales Summary Page | Model Analysis Page |
 |---------------------|---------------------|
-| ![BMW Summary](./asset/image1.png) | ![BMW Model Analysis](./asset/image2.png) |
+| ![BMW Summary](./ASSET/IMAGE 1.png) | ![BMW Model Analysis](./ASSET/IMAGE 2.png) |
 
 
 
